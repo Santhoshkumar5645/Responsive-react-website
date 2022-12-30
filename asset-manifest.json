@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Santhoshkumar5645/Responsive-react-website.git/static/css/main.f717163b.css",
+    "main.js": "/Santhoshkumar5645/Responsive-react-website.git/static/js/main.82c4882a.js",
+    "index.html": "/Santhoshkumar5645/Responsive-react-website.git/index.html",
+    "main.f717163b.css.map": "/Santhoshkumar5645/Responsive-react-website.git/static/css/main.f717163b.css.map",
+    "main.82c4882a.js.map": "/Santhoshkumar5645/Responsive-react-website.git/static/js/main.82c4882a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f717163b.css",
+    "static/js/main.82c4882a.js"
+  ]
+}
